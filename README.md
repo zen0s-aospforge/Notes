@@ -1,5 +1,3 @@
----
-
 ### **Manual DC Dimming Control via Termux**
 
 **⚙️ Path:**
